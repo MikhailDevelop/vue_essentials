@@ -1,0 +1,60 @@
+var matrix = [
+        [1, 2, 3],
+        [0, 9, 6],
+        [4, 8, 7]
+    ]
+
+    for(i = 0; i = 3;i++) {
+
+        for(r=0; r<matrix.length; r++) {
+            // console.log(matrix[[0][0]]);
+             for(j=1; j<matrix.length; j++) {
+                 console.log(matrix[0][0]);
+
+             for(var prop in matrix) {
+                console.log(matrix[1][0]);
+                break;
+             }
+
+             for(var prok in matrix) {
+                console.log(matrix[2][0]);
+                break;
+             }
+
+             for(var prok in matrix) {
+                console.log(matrix[2][1]);
+                break;
+             }
+
+             for(var pros in matrix) {
+                console.log(matrix[1][1]);
+                break;
+             }
+
+             for(var pros in matrix) {
+                 console.log(matrix[0][1]);
+                // console.log(matrix[2][1]);
+                break;
+             }
+
+             for(var pros in matrix) {
+                console.log(matrix[1][1]);
+                break;
+             }
+
+             }
+             break;
+        }
+
+        // for(i=1; i<matrix.length; i++) {
+        //     console.log(matrix[[2][0]]);
+        //     break;
+        // }
+        //
+        // for(i=2; i<matrix.length; i++) {
+        //     console.log(matrix[[3][0]]);
+        // }
+
+    break;
+        //1 0 4
+    }
